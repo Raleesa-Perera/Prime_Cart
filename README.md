@@ -43,5 +43,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ![image](https://github.com/user-attachments/assets/69f7d9e8-8c0e-4871-ab5b-11aa0e8e2932)
 
+![image](https://github.com/user-attachments/assets/fcc2ef2a-c180-4262-9558-0cfeb11408bc)
 
 
