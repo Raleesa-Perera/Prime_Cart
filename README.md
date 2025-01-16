@@ -38,4 +38,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Images 
 
 ![image](https://github.com/user-attachments/assets/535215f8-ffa9-4b8c-94e3-eed1af181de0)
+![image](https://github.com/user-attachments/assets/568c1e43-beea-4936-8e9d-81183a20f061)
+![image](https://github.com/user-attachments/assets/69f7d9e8-8c0e-4871-ab5b-11aa0e8e2932)
+
+
 
